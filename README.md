@@ -48,6 +48,22 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 <img width="694" height="623" alt="image" src="https://github.com/user-attachments/assets/b5a1865b-ecb8-4676-bec7-e6ea541abcd3" />
 <img width="904" height="686" alt="image" src="https://github.com/user-attachments/assets/cae77da3-f3fa-459f-a66d-f19525c77129" />
+![IMG-20251016-WA0014](https://github.com/user-attachments/assets/c96fd472-b0fe-4f95-ba18-f29bf95f0f8c)
+
+![IMG-20251016-WA0017](https://github.com/user-attachments/assets/16fbf88e-509b-4427-8c9c-64be9f1a2f28)
+
+![IMG-20251016-WA0016](https://github.com/user-attachments/assets/35bb1b1d-d493-4be8-b556-e4ba8876ff24)
+
+![IMG-20251016-WA0015](https://github.com/user-attachments/assets/f0faedb1-cc1d-46a1-83c3-d80d478acbeb)
+
+![IMG-20251016-WA0013](https://github.com/user-attachments/assets/76aceab6-ea20-428c-9fb8-53d2cc04311e)
+
+![IMG-20251016-WA0019](https://github.com/user-attachments/assets/4b9af837-e3b7-493f-aab2-5a0e98d59584)
+
+![IMG-20251016-WA0018](https://github.com/user-attachments/assets/edd5ed3b-7c5e-4d9b-bd9e-41246dfd805b)
+
+
+
 
  
 Result:
